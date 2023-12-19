@@ -86,11 +86,11 @@ To get the most out of the Dynamic Grade Calculator, follow these user-friendly 
 ---
 ## Screenshots :camera:
 
-# D2L Page
+### D2L Page
 
 ![image](https://github.com/tugrapaydiner/GradeCalculator/assets/106766396/6d545c55-5df2-431d-85e5-99fc515e03ad)
 
-# Dynamic Grade Calculator Page
+### Dynamic Grade Calculator Page
 
 ![image](https://github.com/tugrapaydiner/GradeCalculator/assets/106766396/95424c27-4c44-4820-b358-52467405b877)
 
