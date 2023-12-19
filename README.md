@@ -17,7 +17,7 @@ A sophisticated, web-based tool crafted for the precise calculation of weighted 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage Guide](#usage-guide)
-
+- [Screenshots](#screenshots)
 ---
 
 ## 🌟 About the Project
