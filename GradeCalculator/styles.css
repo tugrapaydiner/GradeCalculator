@@ -1,0 +1,92 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.delete-btn {
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+    float: right;
+    border: none;
+    background: none;
+}
+
+input[type="text"] {
+    padding: 8px;
+    margin-right: 4px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.add-btn, .calculate-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-btn:hover, .calculate-btn:hover {
+    background-color: #45a049;
+}
+
+#lblResult {
+    display: block;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #28a745;
+}
+
+#resultContainer {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #28a745;
+    text-align: center;
+}
+
+.error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
